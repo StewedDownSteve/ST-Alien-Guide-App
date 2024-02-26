@@ -1,9 +1,9 @@
 # ST-Alien-Guide-App
-An app I made to practice creating API's and using JavaScript to fetch them. 
+An app I made to practice creating API's and using JavaScript to fetch them. A field guide to stark trek aliens.
 
 
 
-![screen shot](http://placecorgi.com/1200/650)
+![screen shot](https://github.com/StewedDownSteve/ST-Alien-Guide-App/blob/main/Alien_app_img.png)
 
 ## How It's Made:
 
