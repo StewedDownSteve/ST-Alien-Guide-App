@@ -1,5 +1,5 @@
 # ST-Alien-Guide-App
-An app I made to practice creating API's and using JavaScript to fetch them. A field guide to stark trek aliens.
+An app I made to practice creating API's and using JavaScript to fetch them. A field guide to Stark Trek aliens.
 
 
 
@@ -26,6 +26,8 @@ Other projects from my portfolio:
 **Task App(React):** https://github.com/StewedDownSteve/react-task-app
 
 **Drag and Drop Kanban Board:** https://github.com/StewedDownSteve/Drag_Drop_kanban
+
+**Alien Guide (API App):** https://github.com/StewedDownSteve/ST-Alien-Guide-App
 
 
 
